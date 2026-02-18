@@ -1,13 +1,27 @@
 import React from "react";
 import bendDownPose from "../assets/gallery/bend-down-pose.jpg";
+import cheerleaderPose from "../assets/gallery/cheerleader-pose.jpeg";
+import fingerTogetherPose from "../assets/gallery/fingers-together-pose.jpeg";
+// import forRealPose from "../assets/gallery/for-real-pose.jpeg";
+import frownPose from "../assets/gallery/frown-pose.jpeg";
+import moneyManPose from "../assets/gallery/money-man-pose.jpeg";
+import pinkyToTeethPose from "../assets/gallery/pinky-to-teeth-pose.jpeg";
+import realManPose from "../assets/gallery/real-man-pose.jpeg";
+import smileAbitPose from "../assets/gallery/smile-abit-pose.jpeg";
+import standByPolePose from "../assets/gallery/stand-by-pole-pose.jpeg";
+import thinkingPose from "../assets/gallery/thinking-pose.jpeg";
 
 const IMAGES = [
   bendDownPose,
-  "https://images.unsplash.com/photo-1459749411177-042180ce673c?auto=format&fit=crop&w=800&q=80",
-  "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=800&q=80",
-  "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?auto=format&fit=crop&w=800&q=80",
-  "https://images.unsplash.com/photo-1493225255756-d9584f8606e9?auto=format&fit=crop&w=800&q=80",
-  "https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&w=800&q=80",
+  cheerleaderPose,
+  fingerTogetherPose,
+  frownPose,
+  moneyManPose,
+  pinkyToTeethPose,
+  realManPose,
+  smileAbitPose,
+  standByPolePose,
+  thinkingPose,
 ];
 
 const Gallery: React.FC = () => {
