@@ -40,7 +40,7 @@ export const MOCK_SONGS: Song[] = [
   {
     id: "4",
     title: "Normal Things",
-    duration: "3:12",
+    duration: "3:03",
     album: "Single",
     coverUrl:
       "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=400&q=80",
