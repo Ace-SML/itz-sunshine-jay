@@ -1,8 +1,8 @@
 import React from "react";
 import { Song, TourDate } from "./types";
-import showYouLove from "../assets/covers/show-you-love.jpg";
-import cheerleader from "../assets/covers/cheerleader.jpg";
-import whereDemDey from "../assets/covers/where-dem-dey.jpg";
+import showYouLove from "./assets/covers/show-you-love.jpg";
+import cheerleader from "./assets/covers/cheerleader.jpg";
+import whereDemDey from "./assets/covers/where-dem-dey.jpg";
 
 export const NAV_LINKS = [
   { label: "Home", href: "#home" },
